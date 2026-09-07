@@ -1,0 +1,15 @@
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\Actividad#2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\Actividad#2.AssemblyInfoInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\Actividad#2.AssemblyInfo.cs
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\Actividad#2.csproj.CoreCompileInputs.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\bin\Debug\net10.0\Actividad#2.exe
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\bin\Debug\net10.0\Actividad#2.deps.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\bin\Debug\net10.0\Actividad#2.runtimeconfig.json
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\bin\Debug\net10.0\Actividad#2.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\bin\Debug\net10.0\Actividad#2.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\Actividad#2.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\refint\Actividad#2.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\Actividad#2.pdb
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\Actividad#2.genruntimeconfig.cache
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\ref\Actividad#2.dll
+C:\Users\yoto8\Documents\Lenguajes Programacion\C#\Actividad#2\Actividad#2\obj\Debug\net10.0\Activida.ECDB4895.Up2Date
